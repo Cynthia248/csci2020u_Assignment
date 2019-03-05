@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 Git Repository: https://github.com/Cynthia248/csci2020u_Assignment
 
+=======
+>>>>>>> 5043c60ca51e708d64443e00c21289e8a85eb8b3
 Question 1: Displaying Three Cards
 - click on the clone/download button to download java file
 - run code through an IDE or command line
