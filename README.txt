@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Git Repository: https://github.com/Cynthia248/csci2020u_Assignment
 
 =======
