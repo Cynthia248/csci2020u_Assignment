@@ -1,7 +1,5 @@
 package histogram;
 
-import java.awt.event.ActionListener;
-import java.awt.event.KeyEvent;
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
@@ -18,7 +16,6 @@ import javafx.scene.shape.Rectangle;
 import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
-import javafx.event.ActionEvent;
 
 /**
  * @author Cynthia Chang
